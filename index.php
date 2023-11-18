@@ -20,7 +20,7 @@
         <label for="AuthorAddress">Address:</label><br>
         <input type="text" name="AuthorAddress" id="AuthorAddress" placeholder="Enter your address" maxlength="13" /><br><br>
 
-        <label for="AuthorBiography">Userame:</label><br>
+        <label for="AuthorBiography">Biography:</label><br>
         <input type="text" name="AuthorBiography" id="AuthorBiography" placeholder="Write a short biography"  /><br><br>
 
         <label for="AuthorDateOfBirth">Date of Birth:</label><br>
